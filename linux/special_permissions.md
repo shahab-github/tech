@@ -9,3 +9,6 @@ Directories: 777 - 022 = 755.The owner can cd into the directory, and list, read
 
 To make the changes permanent, set the new umask value in a global configuration file like /etc/profile file which will affect all users or in a user’s shell configuration files such as ~/.profile, ~/.bashrc or ~/.zshrc, which will affect only the user. The user files have precedence over the global files.
 For more details visit here [umask](https://linuxize.com/post/umask-command-in-linux/)
+
+vi editor cheatsheet: https://www.atmos.albany.edu/daes/atmclasses/atm350/vi_cheat_sheet.pdf
+
