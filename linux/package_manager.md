@@ -3,6 +3,8 @@ It is a high level package manager which is used to install the package on the d
 
 It automatically install all the required dependency packages.
 
+Software repository -> **/etc/apt/sources.list**
+
 Some common cammands 
 - `apt update ` -> to refresh the repository
 - `apt upgrade` -> to upgrade all the installed packages
